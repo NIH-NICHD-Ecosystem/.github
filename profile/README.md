@@ -8,7 +8,7 @@ The Office of Data Science and Sharing (ODSS) at the *Eunice Kennedy Shriver* Na
 # Ecosystem Use Case Library
 <br/>
 
-![NICHD ODSS federated, secure research and specimen data ecosystem.](https://github.com/NIH-NICHD-Ecosystem/.github-private/blob/main/profile/assets/dash-data-ecosystem-v3-revised-16x9.png)
+![NICHD ODSS federated, secure research and specimen data ecosystem.](https://github.com/NIH-NICHD-Ecosystem/.github/blob/main/profile/assets/dash-data-ecosystem-v3-revised-16x9.png)
 
 <details>
 <summary> Text description of the ecosystem graphic </summary>
