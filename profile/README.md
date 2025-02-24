@@ -18,8 +18,7 @@ In collaboration with NICHD, NIH, and external stakeholders, NICHD ODSS will bui
 <p><b> The NICHD Ecosystem Use Case Library tracks user stories, use cases, and efforts to improve capabilities across the ecosystem.</b></br> 
 NICHD ecosystem <b>user stories</b> are recorded based on user needs sourced from across the organization. These stories are used to initiate <b>efforts</b> to fulfill user requirements. Each effort is described by one or more <b>use cases</b>, using Unified Modeling Language (UML) informed by User-Centered Design best practices. 
 
-* [User Stories](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/README.md) allows you to browse by user-reported needs. 
-* [Use Cases](https://github.com/NIH-NICHD-Ecosystem/UseCases/blob/main/README.md) allows you to browse by formalized system-actor interaction requirements. 
+* [User Stories](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/README.md) allows you to browse by user-reported needs.  
 * [Efforts](https://github.com/NIH-NICHD-Ecosystem/Efforts/blob/main/README.md) allows you to browse by efforts undertaken to implement functionality for ecosystem users. 
 <br/>
   
